@@ -1,5 +1,3 @@
-package reizer.company.helloworld;
-
 public class HelloWorld {
 
     public static void main(String[] args) {
