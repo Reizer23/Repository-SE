@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="testnggrouping" type="DTD" />
+      <mapping pattern="testng-extent" type="PLAIN_TEXT" />
       <mapping pattern="testngdataproviders" type="XML" />
     </extensionMap>
   </component>
